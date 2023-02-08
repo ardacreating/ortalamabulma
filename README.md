@@ -1,2 +1,2 @@
 # ortalamabulma
-Bu araç sizin girdiğiniz iki sayının ortalamasını bulur.
+Bu araç sizin girdiğiniz sayıların ortalamasını bulur.
